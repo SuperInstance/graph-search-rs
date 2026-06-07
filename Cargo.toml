@@ -1,0 +1,10 @@
+[package]
+name = "graph-search-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Graph algorithms: BFS, DFS, Dijkstra, Bellman-Ford, A*, topological sort, and Tarjan's SCC"
+license = "MIT OR Apache-2.0"
+categories = ["algorithms", "data-structures"]
+keywords = ["graph", "bfs", "dijkstra", "astar", "topological"]
+repository = "https://github.com/SuperInstance/graph-search-rs"
+readme = "README.md"
