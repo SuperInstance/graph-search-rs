@@ -1,4 +1,5 @@
 [package]
+rust-version = "1.70"
 name = "graph-search-rs"
 version = "0.1.0"
 edition = "2021"
@@ -7,4 +8,5 @@ license = "MIT OR Apache-2.0"
 categories = ["algorithms", "data-structures"]
 keywords = ["graph", "bfs", "dijkstra", "astar", "topological"]
 repository = "https://github.com/SuperInstance/graph-search-rs"
+documentation = "https://docs.rs/graph-search-rs"
 readme = "README.md"
